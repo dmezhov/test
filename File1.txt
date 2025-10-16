@@ -7,7 +7,3 @@ Hello
 Good day
 
 ZDRAVSTVUITE
-
-
-
-test
